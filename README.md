@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jamesssoften
-- 👀 I’m interested in python,java,sql
+- 👀 I’m interested in python,Java,React
 - 🌱 I’m currently learning reactjs,api
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me nwatt91@gmail.com
